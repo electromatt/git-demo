@@ -12,3 +12,5 @@ test4
 # Other Stuff
 Next section
 test5 - this is from the awesome branch!
+
+test6 - Git Stash
